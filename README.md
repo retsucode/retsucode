@@ -1,4 +1,4 @@
-# RETSUCODE
+# RetsuDev
  
  <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,linux,neovim,qt" />
